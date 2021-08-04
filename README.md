@@ -7,3 +7,7 @@ I'm now focusing on `Vision MLP`, `Vision Transformer`, `Transformer`, `Multi-mo
 2021.7.26 ~ 2021.8.31
 - [ ] Vision MLP
 - [ ] Vision Transformer
+- [ ] Vision and Language Pretraining
+- [ ] Vision Pretraining
+- [ ] Language Pretraining
+- [ ] Detection
